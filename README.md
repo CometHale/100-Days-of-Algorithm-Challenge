@@ -12,6 +12,8 @@
 4) **4_HackerRank_30Days_Day0.cpp** First day in the 30 Days of Code challenge on HackerRank. Prints 'Hello World.' and a string input by a user.
 
 ### Day 1: January 21, 2017 
-1) **filename1:** description 
+1) **5_HackerRank_30Days_Day1.cpp:** Second day in the 30 Days of Code challenge on HackerRank. Takes various types of input from stdin (integer, double, string), and adds or contatenates that input to data of like data types before printing the results to stdout.
 
-2) **filename2:** description
+### Day 2: January 22, 2017
+
+1) **6_HackerRank_30Days_Day1.cpp:** Third day in the 30 Days of Code challenge on HackerRank. Calculates the total cost of a meal based a user-input meal cost, tip percent and tax percent.
