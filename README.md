@@ -17,3 +17,8 @@
 ### Day 2: January 22, 2017
 
 1) **6_HackerRank_30Days_Day1.cpp:** Third day in the 30 Days of Code challenge on HackerRank. Calculates the total cost of a meal based a user-input meal cost, tip percent and tax percent.
+
+2) **7_HackerRank_AVeryBigSum.py:** Similar to Simple Array Sum, but dealing with massive integers instead.
+
+3)**8_HackerRank_DiagonalDifference.py:** Calculates the absolute difference between the diagonal sums of a square matrix.
+
