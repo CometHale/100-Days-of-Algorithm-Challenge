@@ -31,3 +31,7 @@
 ### Day 4: January 24,2017
 
 1) **11_HackerRank_30Days_Day4.cpp** Some practice with OOP via the HackerRank 30 Days of Code Challenge.
+
+### Day 5: January 25,2017
+
+1) **12_HackerRank_30Days_Day5.cpp** Some practice with loops and multiplication.
