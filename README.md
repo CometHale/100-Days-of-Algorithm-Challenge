@@ -35,3 +35,13 @@
 ### Day 5: January 25,2017
 
 1) **12_HackerRank_30Days_Day5.cpp** Some practice with loops and multiplication.
+
+### Day 6: January 26,2017
+
+1) **14_HackerRank_30Days_Day6.cpp** Prints out the even and odd placed characters of a user-specified number of user-input strings.
+
+
+
+
+
+
