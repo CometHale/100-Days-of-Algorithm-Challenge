@@ -40,7 +40,9 @@
 
 1) **14_HackerRank_30Days_Day6.cpp** Prints out the even and odd placed characters of a user-specified number of user-input strings.
 
+### Day 7: January 27,2017
 
+1) **15_HackerRank_30Days_Day7.cpp** Prints out the elements of an array backwards and separated by spaces on a single line.
 
 
 
