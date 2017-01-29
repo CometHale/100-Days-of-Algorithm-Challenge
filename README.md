@@ -44,6 +44,7 @@
 
 1) **15_HackerRank_30Days_Day7.cpp** Prints out the elements of an array backwards and separated by spaces on a single line.
 
+### Day 8: January 28,2017
 
-
+1) **15_HackerRank_30Days_Day8.cpp** Practice with the maps in C++
 
