@@ -48,3 +48,10 @@
 
 1) **15_HackerRank_30Days_Day8.cpp** Practice with the maps in C++
 
+### January 29,2017
+
+[skipped]
+
+### Day 9: January 30,2017
+
+1)**17_HackerRank_30Days_Day9.cpp** Practice with recursion by making a factorial function.
