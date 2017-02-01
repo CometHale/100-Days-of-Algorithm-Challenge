@@ -18,7 +18,7 @@
 
 1) **6_HackerRank_30Days_Day2.cpp:** Third day in the 30 Days of Code challenge on HackerRank. Calculates the total cost of a meal based a user-input meal cost, tip percent and tax percent.
 
-2) **7_HackerRank_AVeryBigSum.py:** Similar to Simple Array Sum, but dealing with massive integers instead.Done in python due to some odd errors with the C++ editor on HackerRank.
+2) **7_HackerRank_AVeryBigSum.cpp:** Similar to Simple Array Sum, but dealing with massive integers instead.Done in python due to some odd errors with the C++ editor on HackerRank.
 
 3)**8_HackerRank_DiagonalDifference.cpp:** Calculates the absolute difference between the diagonal sums of a square matrix. 
 
@@ -36,6 +36,8 @@
 
 1) **12_HackerRank_30Days_Day5.cpp** Some practice with loops and multiplication.
 
+2) **13_HackerRank_Staircase.cpp** Some practice with printing.
+
 ### Day 6: January 26,2017
 
 1) **14_HackerRank_30Days_Day6.cpp** Prints out the even and odd placed characters of a user-specified number of user-input strings.
@@ -46,12 +48,18 @@
 
 ### Day 8: January 28,2017
 
-1) **15_HackerRank_30Days_Day8.cpp** Practice with the maps in C++
+1) **16_HackerRank_30Days_Day8.cpp** Practice with the maps in C++
 
+2) **17_HackerRank_TimeConversion.py** Converting 12-hour time to 24-hour time
 ### January 29,2017
 
 [skipped]
 
 ### Day 9: January 30,2017
 
-1)**17_HackerRank_30Days_Day9.cpp** Practice with recursion by making a factorial function.
+1)**18_HackerRank_30Days_Day9.cpp** Practice with recursion by making a factorial function.
+
+### Day 10: January 31,2017
+
+1)**19_HackerRank_30Days_Day9.cpp** Practice with recursion by making a factorial function.
+
