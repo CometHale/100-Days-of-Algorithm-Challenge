@@ -53,7 +53,7 @@
 2) **17_HackerRank_TimeConversion.py** Converting 12-hour time to 24-hour time
 ### January 29,2017
 
-[skipped]
+###[skipped]
 
 ### Day 9: January 30,2017
 
@@ -61,5 +61,21 @@
 
 ### Day 10: January 31,2017
 
-1)**19_HackerRank_30Days_Day9.cpp** Practice with recursion by making a factorial function.
+1)**19_HackerRank_30Days_Day10.cpp** Calculates the number of ones in the binary representation of an input base-10 number
+
+###[skipped]
+
+###[skipped]
+
+###[skipped]
+
+### Day 11: February 4,2017
+1)**20_HackerRank_30Days_Day11.cpp** Determines the max hourglass sum of a 6x6 array
+
+###[skipped]
+
+### Day 12: February 6,2017
+1)**21_HackerRank_30Days_Day12.cpp** Practice with inheritance.
+
+
 
